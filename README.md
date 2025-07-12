@@ -52,5 +52,4 @@ minikube service fastapi-service
 
 Made with ❤️ by [@dhiraj918106](https://hub.docker.com/u/dhiraj918106)
 
-```
 
